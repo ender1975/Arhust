@@ -1,6 +1,6 @@
-# Foundation libsass template
+# Simple website based on Foundation libsass template
 
-This is a template to start your own project that uses Grunt and libsass!
+This is a simple training website based on a Foundation template using Grunt and libsass.
 
 ## Requirements
 
