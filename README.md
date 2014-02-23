@@ -1,4 +1,4 @@
-# Simple website based on Foundation libsass template
+# Simple website based on a Foundation libsass template
 
 This is a simple training website based on a Foundation template using Grunt and libsass.
 
